@@ -1,1 +1,67 @@
-
+ID,Statut,Année,Jours_travail_par_an,Distance_domicile_km,Mode_principal,Trajets_par_semaine,CO2_par_trajet_kg,CO2_annuel_kg,Commentaires
+E01,Temps plein,2023,220,12,Voiture,10,2.4,5280,Voiture thermique moyenne
+E01,Temps plein,2024,220,12,Voiture,10,2.4,5280,Voiture thermique moyenne
+E01,Temps plein,2025,220,12,Voiture,10,2.4,5280,Voiture thermique moyenne
+E02,Temps plein,2023,220,15,Voiture,10,2.9,6380,Habite à 15 km
+E02,Temps plein,2024,220,15,Voiture,10,2.9,6380,Habite à 15 km
+E02,Temps plein,2025,220,15,Voiture,10,2.9,6380,Habite à 15 km
+E03,Temps plein,2023,220,8,Vélo,10,0.0,0,Déplacement neutre
+E03,Temps plein,2024,220,8,Vélo,10,0.0,0,Déplacement neutre
+E03,Temps plein,2025,220,8,Vélo,10,0.0,0,Déplacement neutre
+E04,Temps plein,2023,220,10,Bus,10,0.5,1100,Bus ligne 1500
+E04,Temps plein,2024,220,10,Bus,10,0.5,1100,Bus ligne 1500
+E04,Temps plein,2025,220,10,Bus,10,0.5,1100,Bus ligne 1500
+E05,Temps plein,2023,220,20,Covoiturage,10,1.2,2640,Trajets partagés
+E05,Temps plein,2024,220,20,Covoiturage,10,1.2,2640,Trajets partagés
+E05,Temps plein,2025,220,20,Covoiturage,10,1.2,2640,Trajets partagés
+E06,Temps plein,2023,220,6,Vélo,10,0.0,0,Déplacement neutre
+E06,Temps plein,2024,220,6,Vélo,10,0.0,0,Déplacement neutre
+E06,Temps plein,2025,220,6,Vélo,10,0.0,0,Déplacement neutre
+E07,Temps plein,2023,220,10,Bus,10,0.5,1100,Bus ligne 1500
+E07,Temps plein,2024,220,10,Bus,10,0.5,1100,Bus ligne 1500
+E07,Temps plein,2025,220,10,Bus,10,0.5,1100,Bus ligne 1500
+E08,Temps plein,2023,220,18,Voiture,10,2.8,6160,Long trajet périurbain
+E08,Temps plein,2024,220,18,Voiture,10,2.8,6160,Long trajet périurbain
+E08,Temps plein,2025,220,18,Voiture,10,2.8,6160,Long trajet périurbain
+E09,Temps plein,2023,220,9,Trottinette électrique,10,0.1,22,Électrique courte distance
+E09,Temps plein,2024,220,9,Trottinette électrique,10,0.1,22,Électrique courte distance
+E09,Temps plein,2025,220,9,Trottinette électrique,10,0.1,22,Électrique courte distance
+E10,Temps plein,2023,220,11,Voiture,10,2.2,4840,Voiture citadine
+E10,Temps plein,2024,220,11,Voiture,10,2.2,4840,Voiture citadine
+E10,Temps plein,2025,220,11,Voiture,10,2.2,4840,Voiture citadine
+E11,Temps plein,2023,220,7,Vélo,10,0.0,0,Déplacement neutre
+E11,Temps plein,2024,220,7,Vélo,10,0.0,0,Déplacement neutre
+E11,Temps plein,2025,220,7,Vélo,10,0.0,0,Déplacement neutre
+E12,Temps plein,2023,220,13,Bus,10,0.5,1100,Bus ligne 1500
+E12,Temps plein,2024,220,13,Bus,10,0.5,1100,Bus ligne 1500
+E12,Temps plein,2025,220,13,Bus,10,0.5,1100,Bus ligne 1500
+E13,Temps plein,2023,220,17,Voiture,10,2.7,5940,Voiture
+E13,Temps plein,2024,220,17,Voiture,10,2.7,5940,Voiture
+E13,Temps plein,2025,220,17,Voiture,10,2.7,5940,Voiture
+E14,Temps plein,2023,220,10,Bus,10,0.5,1100,Bus ligne 1500
+E14,Temps plein,2024,220,10,Bus,10,0.5,1100,Bus ligne 1500
+E14,Temps plein,2025,220,10,Bus,10,0.5,1100,Bus ligne 1500
+E15,Mi-temps matin,2023,220,8,Voiture,5,2.1,2310,Vient uniquement le matin
+E15,Mi-temps matin,2024,220,8,Voiture,5,2.1,2310,Vient uniquement le matin
+E15,Mi-temps matin,2025,220,8,Voiture,5,2.1,2310,Vient uniquement le matin
+E16,Mi-temps 2j/semaine,2023,100,12,Bus,4,0.5,200,Présence réduite
+E16,Mi-temps 2j/semaine,2024,100,12,Bus,4,0.5,200,Présence réduite
+E16,Mi-temps 2j/semaine,2025,100,12,Bus,4,0.5,200,Présence réduite
+E17,Temps plein,2023,220,14,Covoiturage,10,1.2,2640,Partage domicile voisin
+E17,Temps plein,2024,220,14,Covoiturage,10,1.2,2640,Partage domicile voisin
+E17,Temps plein,2025,220,14,Covoiturage,10,1.2,2640,Partage domicile voisin
+E18,Temps plein,2023,220,9,Vélo,10,0.0,0,Déplacement neutre
+E18,Temps plein,2024,220,9,Vélo,10,0.0,0,Déplacement neutre
+E18,Temps plein,2025,220,9,Vélo,10,0.0,0,Déplacement neutre
+E19,Temps plein,2023,220,20,Voiture,10,3.0,6600,Long trajet domicile-travail
+E19,Temps plein,2024,220,20,Voiture,10,3.0,6600,Long trajet domicile-travail
+E19,Temps plein,2025,220,20,Voiture,10,3.0,6600,Long trajet domicile-travail
+A01,Alternant,2023,110,10,Bus,5,0.5,550,Présence 1 semaine/2
+A01,Alternant,2024,110,10,Bus,5,0.5,550,Présence 1 semaine/2
+A01,Alternant,2025,110,10,Bus,5,0.5,550,Présence 1 semaine/2
+A02,Alternant,2023,110,6,Vélo,5,0.0,0,Présence 1 semaine/2
+A02,Alternant,2024,110,6,Vélo,5,0.0,0,Présence 1 semaine/2
+A02,Alternant,2025,110,6,Vélo,5,0.0,0,Présence 1 semaine/2
+S01,Stagiaire,2023,44,8,Bus,10,0.5,220,Stage 2 mois
+S01,Stagiaire,2024,22,8,Bus,10,0.5,110,Stage 1 mois
+S01,Stagiaire,2025,66,8,Bus,10,0.5,330,Stage 3 mois
