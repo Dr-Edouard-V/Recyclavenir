@@ -1,21 +1,36 @@
-Piliers,Indicateur,Unité,Valeur 2023,Valeur 2024,Objectif 2025,Source,Fréquence
-E,Déchets évités,kg,4200,5000,6000,Système interne,Mensuelle
-E,CO2 évité via réemploi,tCO2eq,9.8,11.5,13,ADEME,Trimestrielle
-E,Taux de recyclage matière,%,75,78,80,Suivi production,Annuelle
-E,Part d'électricité verte,%,35,45,60,Facture énergétique,Annuelle
-E,Déchets dangereux générés,t,0.15,0.12,0.10,Suivi déchets,Annuelle
-S,Emplois locaux créés,nb,2,3,3,RH,Annuelle
-S,Heures de formation internes,h,120,160,200,RH,Semestrielle
-S,Taux de satisfaction interne,%,78,82,85,Enquête interne,Annuelle
-S,Taux de féminisation,%,25,29,35,RH,Annuelle
-S,Alternants et stagiaires intégrés,nb,2,2,3,RH,Annuelle
-S,Taux de fournisseurs locaux (<100km),%,58,62,70,Achats,Annuelle
-S,Dépenses commerces locaux,€/an,25000,28000,30000,Estimation territoriale,Annuelle
-S,Partenariats écoles/CFA,nb,2,3,3,Relations externes,Annuelle
-G,Taux de satisfaction clients,%,87,91,93,Enquête client,Annuelle
-G,Taux de conformité éthique fournisseurs,%,92,95,97,Audit interne,Annuelle
-G,Délai moyen de reporting ESG,jours,45,30,25,Direction,Semestrielle
-G,Participation à des événements locaux,nb/an,3,4,5,Communication,Annuelle
-G,Publication de données open-data,Oui/Non,Non,Oui,Oui,Communication,Annuelle
-E,Émissions mobilité employé,tCO2eq,5.2,4.6,4.0,Enquête mobilité,Annuelle
-S,Utilisateurs réguliers du bus (ligne 1500),nb,5,7,8,Enquête interne,Annuelle
+Piliers,Indicateur,Unité,2023,2024,2025,Objectif 2026,Source,Fréquence
+E,Déchets évités,kg,4200,5000,5800,6500,Système interne,Mensuelle
+E,CO2 évité via réemploi,tCO2eq,9.8,11.5,13.2,14.0,ADEME,Trimestrielle
+E,Taux de recyclage matière,%,75,78,81,85,Suivi production,Annuelle
+E,Part d'électricité verte,%,35,45,62,70,Facture énergétique,Annuelle
+E,Déchets dangereux générés,t,0.15,0.12,0.09,0.08,Suivi déchets,Annuelle
+E,Consommation d'eau,m³,280,260,240,220,Compteur eau,Mensuelle
+E,Consommation électrique totale,MWh,180,170,158,150,Compteur énergie,Mensuelle
+E,Émissions mobilité employés,tCO2eq,5.2,4.6,4.0,3.5,Enquête mobilité,Annuelle
+E,Véhicules de flotte électriques,%,20,33,50,60,Inventaire flotte,Annuelle
+E,Achats à faible empreinte carbone,%,18,25,33,40,Achats,Annuelle
+S,Nombre d’employés,nb,18,20,21,23,RH,Annuelle
+S,Taux de féminisation,%,25,29,35,40,RH,Annuelle
+S,Heures de formation,h,120,160,210,240,RH,Semestrielle
+S,Taux de satisfaction interne,%,78,82,86,88,Enquête interne,Annuelle
+S,Accidents du travail,nb,2,1,0,0,RH,Annuelle
+S,Absentéisme,%,4.2,3.8,3.5,3.0,RH,Mensuelle
+S,Emplois locaux créés,nb,2,3,3,4,RH,Annuelle
+S,Alternants et stagiaires intégrés,nb,2,2,3,3,RH,Annuelle
+S,Taux de fournisseurs locaux (<100km),%,58,62,70,75,Achats,Annuelle
+S,Dépenses commerces locaux,€/an,25000,28000,31000,35000,Estimation territoriale,Annuelle
+S,Partenariats écoles/CFA,nb,2,3,3,4,Relations externes,Annuelle
+S,Utilisateurs du bus ligne 1500,nb,5,7,8,10,Enquête interne,Annuelle
+S,Utilisateurs réguliers vélo,nb,3,3,4,5,Enquête interne,Annuelle
+S,Employés en covoiturage,nb,2,2,2,3,Enquête interne,Annuelle
+S,Employés en trottinette/voiturette électrique,nb,2,2,3,3,Enquête interne,Annuelle
+S,Employés venant seuls en voiture,nb,5,5,4,3,Enquête interne,Annuelle
+S,Fréquentation restaurant local (moyenne déjeuners/mois),nb,40,55,72,80,Enquête interne,Mensuelle
+S,Participation à événements locaux,nb/an,3,4,5,6,Communication,Annuelle
+G,Taux de satisfaction clients,%,87,91,93,95,Enquête client,Annuelle
+G,Taux de conformité éthique fournisseurs,%,92,95,97,98,Audit interne,Annuelle
+G,Délai moyen de reporting ESG,jours,45,30,25,20,Direction,Semestrielle
+G,Publication de données open-data,Oui/Non,Non,Oui,Oui,Oui,Communication,Annuelle
+G,Présence d’un comité RSE interne,Oui/Non,Non,Oui,Oui,Oui,Direction,Annuelle
+G,Réunions RSE organisées,nb/an,1,2,3,4,Direction,Annuelle
+G,Taux de réalisation des actions plan RSE,%,60,75,88,95,Suivi RSE,Annuelle
